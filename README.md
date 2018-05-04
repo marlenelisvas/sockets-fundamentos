@@ -14,4 +14,4 @@ npm install
 Ejemplo de uso con el despliegue en heroku
 
 
- ![drawing](img/socket.png)
+ ![drawing](img/sockets.png)
